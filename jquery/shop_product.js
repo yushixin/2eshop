@@ -33,5 +33,3 @@ $('.dialog-next').on('click',function () {
         $(this).remove();
     });
 });
-
-
